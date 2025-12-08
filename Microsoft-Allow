@@ -45,6 +45,7 @@ onmicrosoft.com
 svc.ms
 yammer.com
 #Teams#
+||teams.microsoft.com^
 api.teams.skype.com
 img.teams.skype.com
 lync.cn
@@ -56,7 +57,6 @@ teams.cdn.live.net
 teams.cdn.office.net
 teams.events.data.microsoft.com
 teams.live.com
-teams.microsoft.com
 teams.microsoft.us
 teams.office.com
 teams.office.net
@@ -138,7 +138,6 @@ exp-tas.com
 gfx.ms
 live.com
 live.net
-microsoft
 microsoft.az
 microsoft.be
 microsoft.by
